@@ -19,5 +19,5 @@ Pub serve will run on port 8080, but you don't access it directly, let vane prox
 
 ## Access the test app
 
-Open <a href="http://localhost:7777/>http://localhost:7777/</a>
+Open <a href="http://localhost:7777">http://localhost:7777/</a>
 
